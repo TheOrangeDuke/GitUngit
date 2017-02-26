@@ -7,6 +7,9 @@ function robert(){
 }
 
 function name(){
+    // calls function bob
     bob();
+
+    // calls function robert
     robert();
 }
